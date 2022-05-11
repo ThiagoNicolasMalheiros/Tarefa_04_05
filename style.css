@@ -1,0 +1,46 @@
+.container{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.select{
+    border-radius: 50px !;
+    height: 25px;
+    box-shadow: 0px 5px 5px black;
+}
+.descricao{
+    color:white;
+    font-size: 20px;
+}
+.input{
+    width: 200px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px black;
+}
+.body{
+    background-image: radial-gradient(circle, #223725, #24532c, #247130, #228f32, #1faf31);
+}
+
+.btnCadastrar{
+    width: 100px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    color: black;
+    background-color: #0BB86A;
+    box-shadow: 0px 5px 5px black;
+}
+.botões{
+    
+    display: flex;
+    justify-content: center;
+}
